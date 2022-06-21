@@ -6,7 +6,7 @@
 
 <h4 align="center"> Descubra o que está acontecendo agora no campus
     
-:date: :ticket: Acesse pelo código .aia
+Acesse pelo código .aia
 https://drive.google.com/file/d/1fJIKusQsfDIYp1nkYXtFgSDEACLWiQJn/view  </h4>
 
 <br>
