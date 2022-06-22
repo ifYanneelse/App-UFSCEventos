@@ -18,7 +18,9 @@ O aplicativo “UFSC Eventos” visa auxiliar a comunidade universitária a enco
 </p>
 
 ### Processo produtivo
-
+- Platform: Android
+ 
+- Project for Mobile
 
 
 ### Interface visual
