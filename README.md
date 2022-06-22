@@ -63,6 +63,12 @@ Mais informações: http://www.gqs.ufsc.br/usability-engineering/disciplina-ine4
 
 <br>
 
+#
+:x: transformar apk em código
+#
+<br>
+
+
 1º semestre de 2019
 
 Programa de Pós Graduação em Engenharia da Computação 
