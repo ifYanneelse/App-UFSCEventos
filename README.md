@@ -30,7 +30,7 @@ O aplicativo “UFSC Eventos” visa auxiliar a comunidade universitária a enco
     </p>
 
 
-### Screens no figma
+### App Wireframe on Figma
 
 <p align="center" width="100%">
 <img width="53%" src="https://github.com/ifYanneelse/App-UFSCEventos/blob/fb8aab70a168717857c79c7cde805f26e7df467b/screens/prototipo%20ufsceventos%20azul.png"> 
