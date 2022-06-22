@@ -12,22 +12,23 @@ https://drive.google.com/file/d/1fJIKusQsfDIYp1nkYXtFgSDEACLWiQJn/view  </h4>
 <br>
 
 ### Sobre o projeto
-O projeto “UFSC Eventos” visa auxiliar a comunidade universitária a encontrar, em um só lugar, os mais diversos eventos que acontecem na Universidade. Por meio de um único aplicativo, qualquer pessoa pode encontrar seus eventos de interesse, como palestras, encontros, seminários, etc. Além disso, o aplicativo permite que pessoas com o idufsc possam cadastrar novos eventos, compartilhamento suas informações. Assim, o “UFSC Eventos” poderá motivar a comunidade interna e externa à UFSC a participar, se envolver e se integrar com tudo o que acontece na Universidade.
+O aplicativo “UFSC Eventos” visa auxiliar a comunidade universitária a encontrar, em um só lugar, os mais diversos eventos que acontecem na Universidade. Por meio de um único aplicativo, qualquer pessoa pode encontrar seus eventos de interesse, como palestras, encontros, seminários, etc. Além disso, o aplicativo permite que pessoas com o idufsc possam cadastrar novos eventos, compartilhamento suas informações. Assim, o “UFSC Eventos” poderá motivar a comunidade interna e externa à UFSC a participar, se envolver e se integrar com tudo o que acontece na Universidade.
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/ifYanneelse/App-UFSCEventos/blob/c08b281c9bf522e8f63a5c54d3a7885de5e33555/img/Documento%20sem%20t%C3%ADtulo.png">
+</p>
 
 ### Processo produtivo
 
 
-### Interface visual
 
+### Interface visual
 
 <p align="center" width="100%">
     <img width="23%" src="https://github.com/ifYanneelse/App-UFSCEventos/blob/d02000841af71b42a3924c76acb95657b3396722/screens/1%20screen%20entrada.png">
     </p>
 
 
-
-
-### Outros Screens
+### Screens
 
 <p width="100%">
 <img width="23%" src=""> 
@@ -41,14 +42,24 @@ O projeto “UFSC Eventos” visa auxiliar a comunidade universitária a encontr
 ### Técnicas e ferramentas utilizadas
 - Figma
 - Corel Draw X7
-- App Inventor
+- App Inventor [https://appinventor.mit.edu/]
 
-#### Equipe de produção
+
+### Desenvolvedores
 - Adriano Lima
 - Yanne Roberto
 
 #### Orientação
 - Prof. Dr. rer. nat. Christiane Gresse von Wangenheim
+
+    ##### Objetivos da disicplina de Design de Interface de Usuário com Design Thinking
+    - Conceitos básicos de UX/UI design e usabilidade
+
+    - Conceitos básicos e processo de design thinking
+
+    - Analise de contexto: identificação do problema, ideação, análise de usuários, tarefas, dispositivos, ambientes e especificação de requisitos de usabilidade
+
+    - Prototipação: sketches, wireframes e design visual e desenvolvimento de protótipo funcional (com App Inventor)
 
 <br>
 
@@ -56,9 +67,9 @@ Mais informações: http://www.gqs.ufsc.br/usability-engineering/disciplina-ine4
 
 <br>
 
-Florianópolis/SC, 1º semestre de 2019.
+1º semestre de 2019
 
-Design de Interface de Usuário com Design Thinking | Engenharia de Computação 
+Programa de Pós Graduação em Engenharia da Computação 
 
 Universidade Federal de Santa Catarina
 
